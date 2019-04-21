@@ -8,7 +8,7 @@ Prerequisites:
 
 How To Use:
 1. Open script.py in your text editor of choice.
-2. Find the poll.fm URL by disabling JavaScript on the SiLive poll page and following Step 2.
+2. Find the poll.fm URL by disabling JavaScript on the SiLive poll page and following Step 3.
 3. Inspect the link that redirects you to the Poll and copy the poll.fm URL.
 4. Replace POLL_URL with this url you just copied.
 5. Find the option you want the program to select and Inspect the Radio Element.
